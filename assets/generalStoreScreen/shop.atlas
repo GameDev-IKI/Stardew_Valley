@@ -1,0 +1,19 @@
+shop.png
+size: 256, 192
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DialogBoxGreen
+  rotate: false
+  xy: 0, 0
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+exit_button
+  rotate: false
+  xy: 192, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

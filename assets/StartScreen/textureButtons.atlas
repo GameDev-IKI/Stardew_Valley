@@ -1,0 +1,47 @@
+textureButtons.png
+size: 197, 915
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+exit_button_down
+  rotate: false
+  xy: 0, 0
+  size: 195, 152
+  orig: 195, 152
+  offset: 0, 0
+  index: -1
+exit_button_up
+  rotate: false
+  xy: 0, 152
+  size: 197, 152
+  orig: 197, 152
+  offset: 0, 0
+  index: -1
+load_button_down
+  rotate: false
+  xy: 0, 304
+  size: 197, 153
+  orig: 197, 153
+  offset: 0, 0
+  index: -1
+load_button_up
+  rotate: false
+  xy: 0, 457
+  size: 197, 155
+  orig: 197, 155
+  offset: 0, 0
+  index: -1
+new_button_down
+  rotate: false
+  xy: 0, 612
+  size: 197, 151
+  orig: 197, 151
+  offset: 0, 0
+  index: -1
+new_button_up
+  rotate: false
+  xy: 0, 763
+  size: 197, 152
+  orig: 197, 152
+  offset: 0, 0
+  index: -1

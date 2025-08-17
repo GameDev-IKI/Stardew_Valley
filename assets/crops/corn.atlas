@@ -1,0 +1,47 @@
+corn.png
+size: 96, 27
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+corn1
+  rotate: false
+  xy: 0, 0
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+corn2
+  rotate: false
+  xy: 16, 0
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+corn3
+  rotate: false
+  xy: 32, 0
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+corn4
+  rotate: false
+  xy: 48, 0
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+corn5
+  rotate: false
+  xy: 64, 0
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+corn6
+  rotate: false
+  xy: 80, 0
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1

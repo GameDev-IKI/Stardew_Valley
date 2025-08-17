@@ -1,0 +1,131 @@
+crops.png
+size: 16, 486
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+corn1
+  rotate: false
+  xy: 0, 0
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+corn2
+  rotate: false
+  xy: 0, 27
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+corn3
+  rotate: false
+  xy: 0, 54
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+corn4
+  rotate: false
+  xy: 0, 81
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+corn5
+  rotate: false
+  xy: 0, 108
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+corn6
+  rotate: false
+  xy: 0, 135
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+sunflower1
+  rotate: false
+  xy: 0, 162
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+sunflower2
+  rotate: false
+  xy: 0, 189
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+sunflower3
+  rotate: false
+  xy: 0, 216
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+sunflower4
+  rotate: false
+  xy: 0, 243
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+sunflower5
+  rotate: false
+  xy: 0, 270
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+sunflower6
+  rotate: false
+  xy: 0, 297
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+wheat1
+  rotate: false
+  xy: 0, 324
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+wheat2
+  rotate: false
+  xy: 0, 351
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+wheat3
+  rotate: false
+  xy: 0, 378
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+wheat4
+  rotate: false
+  xy: 0, 405
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+wheat5
+  rotate: false
+  xy: 0, 432
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+wheat6
+  rotate: false
+  xy: 0, 459
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1

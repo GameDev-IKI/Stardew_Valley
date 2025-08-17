@@ -1,0 +1,12 @@
+Single_Prier.png
+size: 17, 31
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Prier
+  rotate: false
+  xy: 0, 0
+  size: 17, 31
+  orig: 17, 31
+  offset: 0, 0
+  index: -1

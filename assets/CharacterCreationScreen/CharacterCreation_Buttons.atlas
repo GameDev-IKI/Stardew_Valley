@@ -1,0 +1,75 @@
+CharacterCreation_Buttons.png
+size: 213, 279
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Back_back
+  rotate: false
+  xy: 0, 192
+  size: 213, 87
+  orig: 213, 87
+  offset: 0, 0
+  index: -1
+Back_front
+  rotate: false
+  xy: 0, 112
+  size: 197, 80
+  orig: 197, 80
+  offset: 0, 0
+  index: -1
+cat
+  rotate: false
+  xy: 10, 0
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+dog
+  rotate: false
+  xy: 37, 0
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+female
+  rotate: false
+  xy: 0, 0
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+left_button
+  rotate: false
+  xy: 52, 0
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+male
+  rotate: false
+  xy: 23, 0
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+ok
+  rotate: false
+  xy: 140, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+right_button
+  rotate: false
+  xy: 96, 0
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+textBox
+  rotate: false
+  xy: 0, 64
+  size: 192, 48
+  orig: 192, 48
+  offset: 0, 0
+  index: -1
